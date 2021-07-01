@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.IOException;
 import org.apache.commons.io.FileUtils;
 
-public class Activity4_2 {
+public class Activity14 {
     public static void main(String[] args) throws IOException {
         try {
             File file = new File("newfile.txt");

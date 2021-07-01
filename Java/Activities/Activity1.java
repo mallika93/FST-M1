@@ -1,6 +1,6 @@
 package com.sdet.JavaActivity1;
 
-public class Activity1_1 {
+public class Activity1 {
 
 	public static void main(String[] args) {
 	      Car tata = new Car();

@@ -1,7 +1,7 @@
 package com.sdet.JavaActivity3;
 import java.util.HashSet;
 
-public class Activity3_2 {
+public class Activity10 {
     public static void main(String[] args) {
         HashSet<String> hs = new HashSet<String>();
         // Adding element to HashSet

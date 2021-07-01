@@ -9,7 +9,7 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-public class Activity4_3 {
+public class Activity15 {
 
     private static final String FILE_NAME = "TestSheet.xlsx";
 

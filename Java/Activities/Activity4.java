@@ -1,7 +1,7 @@
 package com.sdet.JavaActivity1;
 
 
-public class Activity1_4 {
+public class Activity4 {
 	public static void main(String args[]) {
 		int[] arr = {9,5,1,4,8,7,6,2,4,3};
 		//System.out.println("original array" + Arrays.toString(arr));

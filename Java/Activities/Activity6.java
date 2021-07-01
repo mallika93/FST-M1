@@ -38,7 +38,7 @@ class Plane {
     }
 }
 
-public class Activity2_2 {
+public class Activity6 {
 
     public static void main(String[] args) throws InterruptedException {
         //There is a plane with max 10 passengers

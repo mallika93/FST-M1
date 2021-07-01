@@ -64,7 +64,7 @@ package com.sdet.JavaActivity2;
 	}
 
 	//Driver class 
-	public class Activity2_3 {
+	public class Activity7 {
 	    public static void main(String args[]) {
 	        MountainBike mb = new MountainBike(5, 0, 12);
 	        System.out.println(mb.bicycleDesc());

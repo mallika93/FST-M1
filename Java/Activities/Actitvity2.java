@@ -1,6 +1,6 @@
 package com.sdet.JavaActivity1;
 
-public class Actitvity1_2 {
+public class Actitvity2 {
 	public static void main(String[] args) {
 	
 		//Integer[] test= new Integer[] {10, 77, 10, 54, -11, 10};

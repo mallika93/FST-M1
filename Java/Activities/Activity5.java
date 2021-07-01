@@ -1,6 +1,6 @@
 package com.sdet.JavaActivity2;
 
-public class Activity2_1 {
+public class Activity5 {
 
 	public static void main(String[] args) {
 		// Initialize title of the book

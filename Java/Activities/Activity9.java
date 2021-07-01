@@ -2,7 +2,7 @@ package com.sdet.JavaActivity3;
 
 import java.util.ArrayList;
 
-public class Activity3_1 {
+public class Activity9 {
 	
 	    public static void main(String[] args) {
 	        //declaring Arraylist of String objects

@@ -1,6 +1,6 @@
 package com.sdet.JavaActivity1;
 
-public class Activity1_3 {
+public class Activity3 {
 	
 	    public static void main(String args[]) {
 	        double seconds = 1000000000;
