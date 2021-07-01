@@ -4,7 +4,7 @@ def calculate_sum(numList):
 		sum += number
 	return sum
 
-numList = [5,8,9,13,17]
+numList = [10,40,60,90]
 
 #call the methos for sum
 result = calculate_sum(numList)

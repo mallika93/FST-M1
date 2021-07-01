@@ -1,6 +1,6 @@
 
-listOne = [6,9,34,78,91]
-listTwo = [13,56,86,23]
+listOne = [10,20,23,11,17]
+listTwo = [13,43,24,36,12]
 
 print("First List ", listOne)
 print("Second List ", listTwo)

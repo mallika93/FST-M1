@@ -1,7 +1,8 @@
 fruit_shop = {
-    "apple",
-    "banana",
-    "grapes"
+    "apple":10,
+    "banana":15,
+    "orange":8,
+    "peaches":15
 }
 
 key_to_check = input("What are you looking for? ").lower()
