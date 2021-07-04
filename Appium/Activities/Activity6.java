@@ -14,7 +14,7 @@ import io.appium.java_client.MobileElement;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileBy;
 import io.appium.java_client.android.AndroidDriver;
-public class Activity3_2 {
+public class Activity6 {
 	    AppiumDriver<MobileElement> driver = null;
 	    WebDriverWait wait;
 

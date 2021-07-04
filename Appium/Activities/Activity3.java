@@ -14,7 +14,7 @@ import io.appium.java_client.AppiumDriver;
 
 import io.appium.java_client.android.AndroidDriver;
 
-public class Activity2_2 {
+public class Activity3 {
     AppiumDriver<MobileElement> driver = null;
 
     @BeforeClass
